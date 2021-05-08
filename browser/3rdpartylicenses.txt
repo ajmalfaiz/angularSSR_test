@@ -13,9 +13,6 @@ MIT
 @angular/router
 MIT
 
-@angular/service-worker
-MIT
-
 ngx-owl-carousel-o
 MIT
 
